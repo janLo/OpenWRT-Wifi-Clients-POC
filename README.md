@@ -1,7 +1,7 @@
 # Query OpenWRT WiFi Clients
 
 This is a simple POC for the OpenWRT ubus JSON-RPC interface
-to wuery associated WiFi clinets from the running hostapd.
+to query associated WiFi clinets from the running hostapd.
 
 This can be useful as trigger for various home automation
 actions like lowering the heating temp if everyone is "gone"
